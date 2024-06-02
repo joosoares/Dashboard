@@ -10,3 +10,7 @@ Dashboard de faturamento
 ![image](https://github.com/joosoares/Dashboard/assets/120841585/46915a11-3b8e-40a7-93e6-686d04b682a5)
 
 Opção para exportar os dados 
+
+![image](https://github.com/joosoares/Dashboard/assets/120841585/10c8734d-4722-46b8-a880-26db9c12f3d2)
+
+Gráficos com varios usuarios 
